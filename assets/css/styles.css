@@ -1,0 +1,139 @@
+.sidebar {
+  background: #53c879 !important;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: #189a44;
+}
+
+[class*="sidebar-dark-"] .sidebar a {
+  color: #000;
+}
+
+[class*="sidebar-dark-"] .nav-sidebar > .nav-item > .nav-link:active {
+  color: #000;
+}
+
+[class*="sidebar-dark"] .brand-link {
+  background-color: #189a44;
+}
+
+.navbar-white {
+  background-color: #189a44;
+}
+
+#batas {
+  background-image: repeating-linear-gradient(
+    to right,
+    black 0,
+    black 10px,
+    transparent 10px,
+    transparent 20px
+  );
+  height: 2px;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.select2-container .select2-selection--single {
+  height: calc(2.25rem + 2px) !important;
+}
+
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow {
+  height: 36px !important;
+}
+
+.step-wizard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.step {
+  text-align: center;
+  cursor: pointer;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: #007bff;
+  background-color: white;
+  font-weight: bold;
+}
+
+.circle.active {
+  background-color: white;
+}
+
+.circle.done {
+  background-color: #007bff;
+  color: white;
+  border: 2px solid #007bff;
+}
+
+.line {
+  flex: 1;
+  height: 2px;
+  background-color: #ccc;
+  margin: 0 10px;
+}
+
+.step .label {
+  margin-top: 5px;
+  font-size: 13px;
+  color: #666;
+}
+
+.step.active .label {
+  font-weight: 600;
+  color: #007bff;
+}
+
+.info-header {
+  background-color: #e1e1e1;
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: start;
+}
+.info-header img {
+  height: 60px;
+  margin-right: 15px;
+}
+.info-header .text {
+  font-size: 15px;
+}
+.dashboard-label {
+  background-color: #a6e7bd;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 6px;
+  display: inline-block;
+  margin: 15px 20px;
+  width: 97%;
+}
+.profile-section {
+  text-align: center;
+  margin-top: 50px;
+}
+.profile-section img {
+  width: 120px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+.profile-section h3 {
+  margin-top: 10px;
+  font-weight: bold;
+}

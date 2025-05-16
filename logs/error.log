@@ -1,0 +1,640 @@
+[04-May-2025 06:43:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function isMenuActive() in D:\php-crud-templates\php-native\includes\admin_sidebar.php:94
+Stack trace:
+#0 D:\php-crud-templates\php-native\includes\admin_header.php(30): include()
+#1 D:\php-crud-templates\php-native\admin\laporan.php(31): include('D:\\php-crud-tem...')
+#2 {main}
+  thrown in D:\php-crud-templates\php-native\includes\admin_sidebar.php on line 94
+[2025-05-04 06:43:22] [FATAL] Uncaught Error: Call to undefined function isMenuActive() in D:\php-crud-templates\php-native\includes\admin_sidebar.php:94
+Stack trace:
+#0 D:\php-crud-templates\php-native\includes\admin_header.php(30): include()
+#1 D:\php-crud-templates\php-native\admin\laporan.php(31): include('D:\\php-crud-tem...')
+#2 {main}
+  thrown in D:\php-crud-templates\php-native\includes\admin_sidebar.php on line 94
+[2025-05-04 13:44:18] [WARNING] include(../layouts/admin_footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\crud-template\admin\404.php on line 36
+[2025-05-04 13:44:18] [WARNING] include(): Failed opening '../layouts/admin_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\crud-template\admin\404.php on line 36
+[2025-05-04 14:09:44] [WARNING] include(../layouts/admin_footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\crud-template\admin\404.php on line 36
+[2025-05-04 14:09:44] [WARNING] include(): Failed opening '../layouts/admin_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\crud-template\admin\404.php on line 36
+[2025-05-09 01:06:22] [WARNING] Undefined variable $conn in D:\case-based-reasoning\auth\proses_login.php on line 9
+[09-May-2025 01:06:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\case-based-reasoning\auth\proses_login.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\case-based-reasoning\auth\proses_login.php on line 9
+[2025-05-09 01:06:22] [FATAL] Uncaught Error: Call to a member function prepare() on null in D:\case-based-reasoning\auth\proses_login.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\case-based-reasoning\auth\proses_login.php on line 9
+[09-May-2025 01:31:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_cbr.users' doesn't exist in D:\case-based-reasoning\admin\datatables.php:79
+Stack trace:
+#0 D:\case-based-reasoning\admin\datatables.php(79): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\datatables.php on line 79
+[2025-05-09 01:31:17] [FATAL] Uncaught mysqli_sql_exception: Table 'db_cbr.users' doesn't exist in D:\case-based-reasoning\admin\datatables.php:79
+Stack trace:
+#0 D:\case-based-reasoning\admin\datatables.php(79): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\datatables.php on line 79
+[09-May-2025 01:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_cbr.users' doesn't exist in D:\case-based-reasoning\admin\datatables.php:79
+Stack trace:
+#0 D:\case-based-reasoning\admin\datatables.php(79): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\datatables.php on line 79
+[2025-05-09 01:35:50] [FATAL] Uncaught mysqli_sql_exception: Table 'db_cbr.users' doesn't exist in D:\case-based-reasoning\admin\datatables.php:79
+Stack trace:
+#0 D:\case-based-reasoning\admin\datatables.php(79): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\datatables.php on line 79
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:35:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:36:20] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 170
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:37:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:38:53] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:39:52] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:04] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 161
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:19] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:39] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:41:59] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:42:13] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:45:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:26] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:46:32] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:47:12] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:17] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:23] [WARNING] Undefined array key "id" in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 4
+[09-May-2025 01:48:23 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 01:48:23] [FATAL] Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 01:48:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:54] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:54] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [WARNING] Undefined array key "nama" in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:55] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-penyakit.php on line 159
+[2025-05-09 01:48:59] [WARNING] Undefined array key "id" in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 4
+[09-May-2025 01:48:59 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 01:48:59] [FATAL] Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 01:50:04] [WARNING] Undefined array key "id" in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 4
+[09-May-2025 01:50:04 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 01:50:04] [FATAL] Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php:5
+Stack trace:
+#0 D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php(5): mysqli->query('DELETE FROM ham...')
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\proses\hapus-data-penyakit.php on line 5
+[2025-05-09 02:10:45] [WARNING] Undefined array key "bobot" in D:\case-based-reasoning\admin\data-gejala.php on line 101
+[2025-05-09 02:10:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 101
+[2025-05-09 02:10:45] [WARNING] Undefined array key "bobot" in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:10:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:10:45] [WARNING] Undefined array key "solusi" in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:10:45] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:11:28] [WARNING] Undefined array key "bobot" in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:11:28] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:11:28] [WARNING] Undefined array key "solusi" in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:11:28] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:11:49] [WARNING] Undefined array key "bobot" in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:11:49] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:11:49] [WARNING] Undefined array key "solusi" in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:11:49] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:12:22] [WARNING] Undefined array key "bobot" in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:12:22] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 139
+[2025-05-09 02:12:22] [WARNING] Undefined array key "solusi" in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:12:22] [UNKNOWN_ERROR] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\case-based-reasoning\admin\data-gejala.php on line 144
+[2025-05-09 02:13:40] [WARNING] Undefined variable $data_penyakit in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[09-May-2025 02:13:40 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in D:\case-based-reasoning\admin\data-gejala.php:136
+Stack trace:
+#0 D:\case-based-reasoning\admin\data-gejala.php(136): mysqli_data_seek(NULL, 0)
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[2025-05-09 02:13:40] [FATAL] Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in D:\case-based-reasoning\admin\data-gejala.php:136
+Stack trace:
+#0 D:\case-based-reasoning\admin\data-gejala.php(136): mysqli_data_seek(NULL, 0)
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[2025-05-09 02:13:45] [WARNING] Undefined variable $data_penyakit in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[09-May-2025 02:13:45 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in D:\case-based-reasoning\admin\data-gejala.php:136
+Stack trace:
+#0 D:\case-based-reasoning\admin\data-gejala.php(136): mysqli_data_seek(NULL, 0)
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[2025-05-09 02:13:45] [FATAL] Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in D:\case-based-reasoning\admin\data-gejala.php:136
+Stack trace:
+#0 D:\case-based-reasoning\admin\data-gejala.php(136): mysqli_data_seek(NULL, 0)
+#1 {main}
+  thrown in D:\case-based-reasoning\admin\data-gejala.php on line 136
+[2025-05-09 10:06:27] [WARNING] Undefined array key "kode_gejala" in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php on line 6
+[09-May-2025 10:06:27 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php:10
+Stack trace:
+#0 C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php(10): mysqli->prepare('INSERT INTO bas...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php on line 10
+[2025-05-09 10:06:27] [FATAL] Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php:10
+Stack trace:
+#0 C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php(10): mysqli->prepare('INSERT INTO bas...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php on line 10
+[09-May-2025 10:06:53 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php:9
+Stack trace:
+#0 C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php(9): mysqli->prepare('INSERT INTO bas...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php on line 9
+[2025-05-09 10:06:53] [FATAL] Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php:9
+Stack trace:
+#0 C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php(9): mysqli->prepare('INSERT INTO bas...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\admin\proses\tambah-data-basis-kasus.php on line 9
+[2025-05-09 11:25:43] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:26:00] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:26:55] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:27:10] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:27:22] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:27:30] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:31:59] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:32:52] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:33:08] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:33:24] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:33:35] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\index.php on line 3
+[2025-05-09 11:36:49] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:37:32] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:37:33] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:40:59] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:41:01] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:41:09] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:41:13] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:41:14] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:42:51] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:43:16] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:43:26] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:44:10] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:44:25] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:44:32] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:44:40] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:45:30] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:45:56] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:46:22] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:46:49] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:46:56] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:50:20] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:54:34] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 11:56:28] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:11:07] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:12:13] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:12:24] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:12:24] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:13:07] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:13:20] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:13:34] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:14:20] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:14:22] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:16:33] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:17:24] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:17:50] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:18:12] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:18:14] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:18:15] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:18:16] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:18:56] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:09] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:18] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:20] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:21] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:23] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:23] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:27] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:28] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:29] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:19:35] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:20:18] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:24:40] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:24:58] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:25:12] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:25:37] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:10] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:15] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:22] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:33] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:39] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:26:55] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:27:13] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:27:18] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:27:21] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:27:22] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:27:57] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:34:52] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:34:57] [WARNING] require(config/koneksi.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\cbr\includes\landing_header.php on line 2
+[09-May-2025 12:34:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'config/koneksi.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\cbr\includes\landing_header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\cbr\algoritma\cbr_process.php(61): include_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\includes\landing_header.php on line 2
+[2025-05-09 12:34:57] [FATAL] Uncaught Error: Failed opening required 'config/koneksi.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\cbr\includes\landing_header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\cbr\algoritma\cbr_process.php(61): include_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\includes\landing_header.php on line 2
+[2025-05-09 12:35:58] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:36:01] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:36:39] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:36:44] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:37:17] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:40:19] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:40:19] [WARNING] Undefined variable $conn in C:\xampp\htdocs\cbr\informasi.php on line 7
+[09-May-2025 12:40:19 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\cbr\informasi.php:7
+Stack trace:
+#0 C:\xampp\htdocs\cbr\informasi.php(7): mysqli_query(NULL, 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\informasi.php on line 7
+[2025-05-09 12:40:19] [FATAL] Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\cbr\informasi.php:7
+Stack trace:
+#0 C:\xampp\htdocs\cbr\informasi.php(7): mysqli_query(NULL, 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\informasi.php on line 7
+[2025-05-09 12:40:30] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:40:40] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:51:57] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:52:28] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:52:38] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:52:46] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:58:07] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 12:58:13] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:03:47] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:03:49] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:03:54] [WARNING] Undefined variable $conn in C:\xampp\htdocs\cbr\algoritma\cbr_process.php on line 191
+[09-May-2025 13:03:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\cbr\algoritma\cbr_process.php:191
+Stack trace:
+#0 C:\xampp\htdocs\cbr\algoritma\cbr_process.php(191): mysqli_query(NULL, 'SELECT * FROM g...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\algoritma\cbr_process.php on line 191
+[2025-05-09 13:03:54] [FATAL] Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\cbr\algoritma\cbr_process.php:191
+Stack trace:
+#0 C:\xampp\htdocs\cbr\algoritma\cbr_process.php(191): mysqli_query(NULL, 'SELECT * FROM g...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cbr\algoritma\cbr_process.php on line 191
+[2025-05-09 13:04:15] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:05:52] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:05:54] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:06:16] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:06:17] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:06:49] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-09 13:07:30] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\cbr\includes\landing_header.php on line 3
+[2025-05-16 18:08:12] [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bnm\includes\landing_header.php on line 3
+[16-May-2025 18:49:55 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\bnm\auth\proses\proses_register.php:17
+Stack trace:
+#0 C:\xampp\htdocs\bnm\auth\proses\proses_register.php(17): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\auth\proses\proses_register.php on line 17
+[2025-05-16 18:49:55] [FATAL] Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\bnm\auth\proses\proses_register.php:17
+Stack trace:
+#0 C:\xampp\htdocs\bnm\auth\proses\proses_register.php(17): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\auth\proses\proses_register.php on line 17
+[16-May-2025 18:50:28 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'where clause' in C:\xampp\htdocs\bnm\auth\proses\proses_register.php:17
+Stack trace:
+#0 C:\xampp\htdocs\bnm\auth\proses\proses_register.php(17): mysqli->prepare('SELECT id_pegaw...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\auth\proses\proses_register.php on line 17
+[2025-05-16 18:50:28] [FATAL] Uncaught mysqli_sql_exception: Unknown column 'email' in 'where clause' in C:\xampp\htdocs\bnm\auth\proses\proses_register.php:17
+Stack trace:
+#0 C:\xampp\htdocs\bnm\auth\proses\proses_register.php(17): mysqli->prepare('SELECT id_pegaw...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\auth\proses\proses_register.php on line 17
+[16-May-2025 19:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[2025-05-16 19:13:38] [FATAL] Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[16-May-2025 19:15:10 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[2025-05-16 19:15:10] [FATAL] Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[16-May-2025 19:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[2025-05-16 19:15:53] [FATAL] Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[16-May-2025 19:16:54 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[2025-05-16 19:16:54] [FATAL] Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[16-May-2025 19:17:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
+[2025-05-16 19:17:17] [FATAL] Uncaught mysqli_sql_exception: Table 'db_bnm.hama_penyakit' doesn't exist in C:\xampp\htdocs\bnm\admin\data-penyakit.php:70
+Stack trace:
+#0 C:\xampp\htdocs\bnm\admin\data-penyakit.php(70): mysqli_query(Object(mysqli), 'SELECT * FROM h...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bnm\admin\data-penyakit.php on line 70
